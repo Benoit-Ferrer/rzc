@@ -64,11 +64,12 @@ export class RenderButton extends Component {
   
   render() {
     const style = {
-      fontSize: '6em',
+      fontSize: this.props.fontSize || '6em',
       position: 'absolute',
       top: '50%',
       left: '50%',
-      transform: 'translate(-50%, -50%)'
+      transform: 'translate(-50%, -50%)',
+      backgroundColor: this.props.color || 'blue'
     }
     
     return (

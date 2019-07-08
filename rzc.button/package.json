@@ -1,6 +1,6 @@
 {
-  "name": "rzc.colors",
-  "version": "0.1.1",
+  "name": "rzc.button",
+  "version": "0.1.2",
   "private": false,
   "dependencies": {
     "react": "^16.8.6",

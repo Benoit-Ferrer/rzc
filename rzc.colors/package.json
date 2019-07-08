@@ -1,0 +1,36 @@
+{
+  "name": "rzc.colors",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-motion": "^0.5.2",
+    "react-scripts": "3.0.1"
+  },
+  "scripts": {
+    "build": "babel src -d build",
+    "prepare": "yarn run build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}

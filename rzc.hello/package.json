@@ -1,0 +1,44 @@
+{
+  "name": "rzc.hello",
+  "version": "0.1.0",
+  "private": false,
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "3.0.1"
+  },
+  "scripts": {
+    "build": "babel src -d build",
+    "prepare": "yarn run build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1"
+  },
+  "description": "Simple hello world",
+  "main": "build/index.js",
+  "repository": "Benoit-Ferrer/rzc",
+  "author": "Benoit Ferrer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benoit-Ferrer/rzc/issues"
+  },
+  "homepage": "https://github.com/Benoit-Ferrer/rzc#readme"
+}

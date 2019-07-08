@@ -1,4 +1,4 @@
-import React, { Component } from 'React'
+import React, { Component } from 'react'
 import {Motion, spring} from 'react-motion';
 class ToggleButton extends Component {
   static defaultProps = {

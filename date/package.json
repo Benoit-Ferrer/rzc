@@ -1,6 +1,6 @@
 {
-  "name": "rzc.date",
-  "version": "0.2.2",
+  "name": "date",
+  "version": "0.2.3",
   "private": false,
   "dependencies": {
     "react": "^16.8.6",

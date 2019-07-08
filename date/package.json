@@ -1,5 +1,5 @@
 {
-  "name": "date",
+  "name": "@rzc/date",
   "version": "0.2.3",
   "private": false,
   "dependencies": {

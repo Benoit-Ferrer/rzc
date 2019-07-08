@@ -1,12 +1,16 @@
 {
-  "name": "@rzc",
+  "name": "@rzc/rzc",
   "version": "3.0.0",
   "description": "Shared components",
   "main": "rzc.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "Benoit-Ferrer/rzc", 
+  "repository": "Benoit-Ferrer/rzc",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benoit-Ferrer/rzc/issues"
+  },
+  "homepage": "https://github.com/Benoit-Ferrer/rzc#readme"
 }

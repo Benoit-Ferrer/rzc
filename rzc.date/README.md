@@ -11,3 +11,6 @@ Using npm :
 In your project :
 
 `Import { rzcDate } from 'rzc.date'`
+
+
+Import from https://codepen.io/du5rte/pen/XdBrgW

@@ -32,5 +32,14 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "build/index.js",
+  "repository": "Benoit-Ferrer/rzc",
+  "author": "Ferrer Benoit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benoit-Ferrer/rzc/issues"
+  },
+  "homepage": "https://github.com/Benoit-Ferrer/rzc#readme"
 }

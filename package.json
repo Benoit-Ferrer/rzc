@@ -1,6 +1,6 @@
 {
-  "name": "rzc",
-  "version": "1.0.0",
+  "name": "@rzc",
+  "version": "3.0.0",
   "description": "Shared components",
   "main": "rzc.js",
   "scripts": {
